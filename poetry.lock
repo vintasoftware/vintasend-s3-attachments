@@ -1278,10 +1278,6 @@ packaging = ">=26.2,<27.0"
 requests = ">=2.34.2,<3.0.0"
 typing-extensions = ">=4.15.0,<5.0.0"
 
-[package.source]
-type = "file"
-url = "../../dist/vintasend-2.0.0-py3-none-any.whl"
-
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.10,<3.15"
